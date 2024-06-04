@@ -7,7 +7,7 @@ A proxy server acts as a bridge between you and the internet. Normally, when you
 
 ### Key Features of Proxyium Free Web Proxy
 
-- **Free and Easily Accessible**: [Proxyium proxy](https://www.okeyproxy.com/proxy/how-to-use-proxyium-free-web-proxy/?link=b63b57) is free to use. For users who want to unlock specific websites such as YouTube or Twitter, it offers a convenient and cost-effective solution. Simply visit its website, enter the URL, and access the desired site quickly.
+- **Free and Easily Accessible**: [Proxyium free web proxy](https://www.okeyproxy.com/proxy/how-to-use-proxyium-free-web-proxy/?link=b63b57) is free to use. For users who want to unlock specific websites such as YouTube or Twitter, it offers a convenient and cost-effective solution. Simply visit its website, enter the URL, and access the desired site quickly.
   
 - **No Installation or Configuration Required**: The entire browsing process takes place on their website, so you don't need to download or install any extensions or software. This simplifies the process for users with basic requirements.
 
