@@ -23,6 +23,8 @@ A proxy server acts as a bridge between you and the internet. Normally, when you
 
 ### How to Use Proxyium for PC
 
+![image](https://github.com/thepirateproxy/A-Step-by-Step-Guide-to-Using-Proxyium/assets/169422974/d74fd24d-f48f-431d-97a3-f8bfaac2bbf4)
+
 1. **Access the Official Website**: Go to [https://proxyium.com/](https://proxyium.com/). Ignore the ads and focus on the purple section where you can select a country and enter a URL to start browsing.
    
 2. **Select Proxy Server Location**: Choose from options like Poland, the United States, Singapore, and Germany. Note the speed provided next to each country, as some locations may offer slow speeds. It’s advisable to choose a location near your geographical area for faster speeds.
@@ -37,9 +39,11 @@ A proxy server acts as a bridge between you and the internet. Normally, when you
 
 - **Security Risks**: Although the target server does not see your IP address, Proxyium’s service is not fully anonymous. Downloaded resources may reference other sources that your browser could automatically download, potentially bypassing Proxyium’s rerouting attempts.
 
-### OkeyProxy – A Better Alternative
+### OkeyProxy – A Proxyium Alternative
 
-For a more professional and high-quality proxy service, consider using OkeyProxy, a [umlimited residential proxy](https://www.okeyproxy.com/en/residential-proxies/?link=b63b57). As one of the top 5 SOCKS5 proxy services, it offers over 150 million real residential IPs and supports IP selection from over 200 countries. Its speed and stability surpass those of free web proxies. Whether you need to scrape web pages, conduct SEO research, engage in e-commerce, manage social media accounts, or any other purpose, OkeyProxy can meet your requirements. Additionally, a 24-hour professional customer service team is available to address any issues you encounter during use.
+For a more professional and high-quality proxy service, consider using [**OkeyProxy**](https://www.okeyproxy.com/en?link=b63b57), an umlimited residential proxy provider. As one of the top 5 SOCKS5 proxy services, it offers over 150 million real residential IPs and supports IP selection from over 200 countries. Its speed and stability surpass those of free web proxies. Whether you need to scrape web pages, conduct SEO research, engage in e-commerce, manage social media accounts, or any other purpose, OkeyProxy can meet your requirements. [Get 3GB Residential Proxies for just $9](https://www.okeyproxy.com/en/residential-proxies?link=b63b57)!
+
+![EN banner](https://github.com/thepirateproxy/A-Step-by-Step-Guide-to-Using-Proxyium/assets/169422974/effc2c4e-a314-4b36-acfa-96340e4f5014)
 
 ...
 
